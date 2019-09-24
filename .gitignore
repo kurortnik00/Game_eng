@@ -1,0 +1,4 @@
+.vscode
+*.hpp.gch
+*.o
+sfml-game
